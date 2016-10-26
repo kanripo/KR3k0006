@@ -3,10 +3,6 @@
 #+PROPERTY: BASEEDITION WYG
 #+PROPERTY: CATEGORY 14類書類
 #+PROPERTY: FW 子部,類書類,初學記
-<pb:ZB3k0006_WYG_000-1a>¶
-　　謹案卷九第九頁前四行貞定王二十七元王二¶
-　　　十八案淵鑑類函作元王二十七貞定王二十¶
-　　　八為是附識¶
 #-*- mode: mandoku-view; -*-
 #+TITLE: 初學記
 #+PROPERTY: ID ZB3k0006
