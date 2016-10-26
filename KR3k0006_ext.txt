@@ -1,8 +1,0 @@
-#+KEY: 初學記/初學記
-#+PROPERTY: JUAN 初學記
-#+PROPERTY: BASEEDITION WYG
-#+PROPERTY: CATEGORY 14類書類
-#+PROPERTY: FW 子部,類書類,初學記
-#-*- mode: mandoku-view; -*-
-#+TITLE: 初學記
-#+PROPERTY: ID ZB3k0006
